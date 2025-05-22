@@ -26,3 +26,6 @@ out/
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+
+# password
+.env
